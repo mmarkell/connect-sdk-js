@@ -6,7 +6,7 @@ The library can be used by NodeJS applications, tools, and other automations to 
 
 ## Installation
 
-You can install the SDK using Git during the closed beta period:
+You can install the SDK using Yarn
 
 ```
 npm install  @1password/connect
